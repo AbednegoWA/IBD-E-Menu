@@ -4,3 +4,5 @@ Untuk memesan menu
 - AR
 Untuk menampilkan preview makanan yang akan dipesan
 - Menambah fitur slide pada makanan yang memiliki lebih dari 1 gambar
+- Menampilkan sejarah/latar belakang singkat setiap makanan di menu
+- Menampilkan promo yang tersedia jika ada promo
