@@ -1,0 +1,3 @@
+Rencana Fitur Baru:
+- QR Code
+- AR
