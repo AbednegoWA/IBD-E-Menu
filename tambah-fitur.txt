@@ -1,3 +1,5 @@
 Rencana Fitur Baru:
 - QR Code
+Untuk memesan menu
 - AR
+Untuk menampilkan preview makanan yang akan dipesan
