@@ -1,0 +1,4 @@
+Fitur E-Menu :
+- Tampilan menu yang menarik
+- Terdapat sistem pemesanan secara online
+- Tampilan yang user friendly
