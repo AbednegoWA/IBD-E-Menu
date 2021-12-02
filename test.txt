@@ -3,4 +3,5 @@ Fitur E-Menu :
 - Tampilan yang user friendly
 - navigasi yang mudah
 - Sistem sudah terintegrasi
-- bisa pesan banyak menu
+- user experience pasti bagus
+- pelanggan bisa membayar dengan banyak dompet digital
