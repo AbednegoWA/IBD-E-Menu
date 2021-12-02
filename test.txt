@@ -1,6 +1,6 @@
 Fitur E-Menu :
 - Terdapat sistem pemesanan secara online
-- Tampilan yang user friendly
+- Mudah digunakan
 - navigasi yang mudah
 - Sistem sudah terintegrasi
 - user experience pasti bagus
