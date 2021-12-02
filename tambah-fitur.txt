@@ -7,4 +7,5 @@ Untuk menampilkan preview makanan yang akan dipesan
 - Menampilkan sejarah/latar belakang singkat setiap makanan di menu
 - Menampilkan makanan yang tersedia saja
 - Menampilkan promo menarik
-- bebas refill es teh
+- bebas refill es teh dan es jeruk
+- free es krim
